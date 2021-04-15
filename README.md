@@ -11,3 +11,18 @@ the incorrect products for their skin types/ conditions which in some cases can 
 This site gives the basic skincare products for the most common skin conditions/issues. More products can be added and the site itself can be 
 expanded to include extra products, hair products, makeup products and many more. There could also be an option for salons to incorporate this
 into their marketing to include their own retail products.
+
+----------------- 
+## User Stories (UX)
+### Wireframes
+- Mobile <br>
+![Mobile Wireframe](assets/images/wireframes/skinician_mobile.png)
+
+- Tablet <br>
+![Tablet Wireframe](assets/images/wireframes/skinician_tablet.png)
+
+- Desktop <br>
+![Desktop Wireframe](assets/images/wireframes/skinician_desktop.png)
+
+
+

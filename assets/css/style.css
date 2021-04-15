@@ -4,16 +4,49 @@
 
 body {
     font-family: "Raleway", sans-serif;
+    background-image: url(/assets/images/skinician_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 h1 {
     font-family: "Dancing Script", sans-serif;
+    text-align: center;
 }
 
 /*---NavBar---*/
+
+.navbar {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
 
 .navbar-brand {
     font-family: "Dancing Script", sans-serif;
     font-weight: 700;
     font-size: 30px;
+}
+
+/*---Introduction---*/
+
+.intro {
+    left: 30%;
+    display: block;
+    max-width: 600px;
+    position: relative;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    line-break: 3px;
+}
+
+.jumbotron {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+button {
+    left: 50%;
 }

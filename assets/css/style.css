@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Raleway:wght@100;200;300;400;500;600;700&display=swap');
+
+/*---General--*/
+
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    font-family: "Dancing Script", sans-serif;
+}
+
+/*---NavBar---*/
+
+.navbar-brand {
+    font-family: "Dancing Script", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}

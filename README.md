@@ -24,5 +24,18 @@ into their marketing to include their own retail products.
 - Desktop <br>
 ![Desktop Wireframe](assets/images/wireframes/skinician_desktop.png)
 
+### User Experiences 
+- First Time User-<br>
+As a first time visitor to the site, the primary goal would be education. What is the site? What does it do? How would it benefit me?
+These questions will be answered on the homepage of the site allowing users to educate themselves on the skincare basics.
+
+- Returning User-<br>
+Returning visitors will most likely want to find out their own skintype and the products they will need to suit their budget.
+
+- Frequent Visitors- <br>
+Frequent visitors will want access to the product information they will need to suit them, skincare is an expensive investment and it many
+not be possible to buy all the products they want all at once, as such it would be nice to have somewhere to access the information when they need it.
+
+
 
 
